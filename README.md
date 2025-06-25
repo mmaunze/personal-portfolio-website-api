@@ -1,8 +1,8 @@
-# API REST - Portfolio Pessoal de Cesário Machava
+# API REST - Portfolio Pessoal 
 
 ## Visão Geral
 
-Esta é uma API REST completa desenvolvida para o portfolio pessoal de Cesário Machava, Engenheiro Civil e especialista em Gestão de Ativos, Risco Operacional e Lean Six Sigma. A API fornece endpoints para gestão de utilizadores, posts de blog, projetos de portfólio, itens para download e mensagens de contacto.
+Esta é uma API REST completa desenvolvida para o portfolio pessoal. A API fornece endpoints para gestão de utilizadores, posts de blog, projetos de portfólio, itens para download e mensagens de contacto.
 
 ## Características Principais
 
@@ -979,13 +979,8 @@ A API está preparada para implementação de testes automatizados:
 
 ## Conclusão
 
-Esta API REST fornece uma base sólida e escalável para o portfolio pessoal de Cesário Machava. Com funcionalidades completas de gestão de conteúdo, autenticação segura e arquitetura bem estruturada, a API está preparada para suportar o crescimento e evolução do portfolio.
+Esta API REST fornece uma base sólida e escalável para o portfolio pessoal. Com funcionalidades completas de gestão de conteúdo, autenticação segura e arquitetura bem estruturada, a API está preparada para suportar o crescimento e evolução do portfolio.
 
 A implementação segue as melhores práticas de desenvolvimento de APIs REST, garantindo segurança, performance e facilidade de manutenção. A documentação detalhada facilita a integração com o frontend e futuras expansões da funcionalidade.
 
----
-
-**Desenvolvido por:** Manus AI  
-**Data:** 25 de Junho de 2025  
-**Versão:** 1.0.0
 
