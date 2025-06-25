@@ -727,8 +727,8 @@ UPLOAD_PATH=./uploads
 
 1. **Clonar o repositório:**
 ```bash
-git clone <url-do-repositorio>
-cd portfolio-api
+git clone https://github.com/mmaunze/personal-portfolio-website-api.git
+cd personal-portfolio-website-api
 ```
 
 2. **Instalar dependências:**
